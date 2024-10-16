@@ -8,3 +8,15 @@ word2 = "is"
 word3 = "cool"
 c = word1 + " " + word2 + "  " + word3
 print(c)
+
+
+# welcome home
+name = "ahad"
+
+subject = "history"
+
+hero = "iron man"
+
+play = "football"
+d = name + subject + hero + " " + play
+print(d)

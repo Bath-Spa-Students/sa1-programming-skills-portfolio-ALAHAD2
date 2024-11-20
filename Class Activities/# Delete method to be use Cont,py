@@ -1,0 +1,19 @@
+# Delete method to be use Cont
+
+dictionary  = { 'Fullname' : 'Al Ahad' , 
+               'Country' :  'India' , 
+               'State': 'Kerala' } 
+del dictionary ["State"]
+print(dictionary.items())
+print(dictionary.keys())
+print(dictionary.values())
+
+# Delete method to be use Cont
+
+dictionary  = { 'Variable1' : '20' , 
+               'Variable2' :  '30' , 
+               'Variable3': '40' } 
+del dictionary ["Variable1"]
+print(dictionary.items())
+print(dictionary.keys())
+print(dictionary.values())
